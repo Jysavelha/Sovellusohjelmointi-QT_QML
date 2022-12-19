@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CafeMocha.qml</file>
+        <file>Espresso.qml</file>
+        <file>Cappuchino.qml</file>
+        <file>HotWater.qml</file>
+        <file>LatteMacchiato.qml</file>
+        <file>HotChocolate.qml</file>
+        <file>ColdWater.qml</file>
+        <file>CafeLatte.qml</file>
+        <file>BackButton.qml</file>
+    </qresource>
+</RCC>
